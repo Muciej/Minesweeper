@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="field_size_x_text">Enter field width (default: 10):</string>
+    <string name="field_size_y_text">Enter field height (default: 10):</string>
+    <string name="mine_count_text">Enter mines count (default: 15)</string>
+    <string name="size_hint">(3–15)</string>
+    <string name="mine_count_hint">(1 to field count-1)</string>
+    <string name="play_btn">Start game</string>
+    <string name="flag">⚑</string>
+    <string name="bomb">💣</string>
+    <string name="blank"> </string>
+    <string name="mines_left">%1$d mines left</string>
+    <string name="backBtn">Back to menu</string>
+    <string name="resetBtn">Reset game</string>
+<!--    <string name="q_mark">\?</string>-->
+</resources>
